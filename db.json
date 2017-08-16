@@ -1,0 +1,264 @@
+{
+  "advantages" : [ {
+    "img" : "img/advantages-1.png",
+    "title" : "ПОЛНЫЙ ЦИКЛ ПРОИЗВОДСТВА",
+    "text" : "Позволяет контролировать изготовление изделия на каждом этапе, своевременно вносить корректировки и гарантировать качество."
+  }, {
+    "img" : "img/advantages-2.png",
+    "title" : "ПАРТНЕРСТВО С GRCA",
+    "text" : "Сотрудничество с мировой Ассоциацией производителей фиброкамня открывает доступ к новым технологиям, знаниям и оборудованию."
+  }, {
+    "img" : "img/advantages-3.png",
+    "title" : "ОПЫТ РАБОТЫ",
+    "text" : "Более 15 лет работы с натуральным камнем и более 5 с фибракамнем делает нас не только исполнителями, а и консультантами проекта."
+  }, {
+    "img" : "img/advantages-4.png",
+    "title" : "УНИКАЛЬНЫЕ РАЗРАБОТКИ",
+    "text" : "Каждая совместная работа с клиентом – это уникальное художественно-архитектурное произведение, не имеющее аналогов."
+  }, {
+    "img" : "img/advantages-5.png",
+    "title" : "КОНСУЛЬТАНТЫ КОМПАНИИ",
+    "text" : "В своей работе мы полагаемся на собственный опыт и знания, а также привелекаем для консультации коллег-архитекторов из Америки, Германии, Италии и Китая."
+  }, {
+    "img" : "img/advantages-6.png",
+    "title" : "ТРЕНДВОТЧИНГ",
+    "text" : "Сотрудничество с мировыми компаниями и институтами позволяет нам первым осваивать технологии будущего и внедрять их в собственное производство."
+  } ],
+  "news" : [ {
+    "img" : "img/news1.png",
+    "title" : "Новость 8",
+    "date" : "07.07.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img" : "img/news2.png",
+    "title" : "Новость 7",
+    "date" : "05.07.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img" : "img/news1.png",
+    "title" : "Новость 6",
+    "date" : "20.06.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img" : "img/news2.png",
+    "title" : "Новость 5",
+    "date" : "18.06.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img" : "img/news1.png",
+    "title" : "Новость 4",
+    "date" : "15.06.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img" : "img/news2.png",
+    "title" : "Новость 3",
+    "date" : "10.06.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img" : "img/news1.png",
+    "title" : "Новость 2",
+    "date" : "07.05.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img" : "img/news2.png",
+    "title" : "Новость 1",
+    "date" : "27.04.2017",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quaerendum qui, vix eros accommodare ut. Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  } ],
+  "subscription" : [],
+  "clients" : [ {
+    "img1" : "img/clients/client1.png",
+    "img2" : "img/clients/client1-1.png",
+    "title" : "Client 1",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img1" : "img/clients/client2.png",
+    "img2" : "img/clients/client2-1.png",
+    "title" : "Client 2",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img1" : "img/clients/client1.png",
+    "img2" : "img/clients/client1-1.png",
+    "title" : "Client 3",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img1" : "img/clients/client2.png",
+    "img2" : "img/clients/client2-1.png",
+    "title" : "Client 4",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img1" : "img/clients/client1.png",
+    "img2" : "img/clients/client1-1.png",
+    "title" : "Client 5",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img1" : "img/clients/client2.png",
+    "img2" : "img/clients/client2-1.png",
+    "title" : "Client 6",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  },  {
+    "img1" : "img/clients/client1.png",
+    "img2" : "img/clients/client1-1.png",
+    "title" : "Client 7",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img1" : "img/clients/client2.png",
+    "img2" : "img/clients/client2-1.png",
+    "title" : "Client 8",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }, {
+    "img1" : "img/clients/client1.png",
+    "img2" : "img/clients/client1-1.png",
+    "title" : "Client 9",
+    "text" : "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at, id nonumes quae"
+  }],
+  "employees" : [ {
+    "img" : "img/page-company/foto1.png",
+    "name" : "John Dowson",
+    "text" : "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer"
+  }, {
+    "img" : "img/page-company/foto2.png",
+    "name" : "Alexa Dowson",
+    "text" : "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer"
+  }, {
+    "img" : "img/page-company/foto3.png",
+    "name" : "Brandon Dowson",
+    "text" : "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer"
+  }, {
+    "img" : "img/page-company/foto2.png",
+    "name" : "Catherine Dowson",
+    "text" : "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer"
+  }, {
+    "img" : "img/page-company/foto1.png",
+    "name" : "Christopher Dowson",
+    "text" : "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer"
+  } ],
+  "honors" : [ {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }, {
+    "img" : "img/honors/honor1.png"
+  }],
+  "projects" : [ {
+    "id": "1",
+    "title": "Проект №1",
+    "img_mini" : "img/page-ideas-trends/project/project1.png",
+    "description": "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer inermis. Mei bonorum",
+    "img_bgr": "img/page-projects/head-img1.png",
+    "text": "Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius.",
+    "article": [
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №1",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №2",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-2.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №3",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      }
+    ],
+    "filter": ["production", "installation", "service"]
+  }, {
+    "id": "2",
+    "title": "Проект №2",
+    "img_mini" : "img/page-ideas-trends/project/project2.png",
+    "description": "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer inermis. Mei bonorum",
+    "img_bgr": "img/page-projects/head-img2.png",
+    "text": "Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius.",
+    "article": [
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №1",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №2",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-2.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №3",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      }
+    ],
+    "filter": ["design", "installation"]
+  }, {
+    "id": "3",
+    "title": "Проект №3",
+    "img_mini" : "img/page-ideas-trends/project/project3.png",
+    "description": "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer inermis. Mei bonorum",
+    "img_bgr": "img/page-projects/head-img1.png",
+    "text": "Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius.",
+    "article": [
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №1",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №2",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-2.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №3",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      }
+    ],
+    "filter": ["installation", "service"]
+  }, {
+    "id": "4",
+    "title": "Проект №4",
+    "img_mini" : "img/page-ideas-trends/project/project2.png",
+    "description": "Sed an vivendum phaedrum voluptatum, vim eu mollis viderer inermis. Mei bonorum",
+    "img_bgr": "img/page-projects/head-img2.png",
+    "text": "Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius. Lorem ipsum dolor sit amet, quo no aliquip integre, mea ne nostro mentitum. Audiam erroribus te nam, iriure legendos cu sea. Te aeque appareat verterem nec, ex homero laoreet est. Te eam prima corrumpit, vim ei antiopam petentium, eum id enim altera. Nihil ponderum moderatius eum no, no ancillae incorrupte definitiones pri, in laudem audire copiosae ius.",
+    "article": [
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №1",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №2",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-2.png"
+      },
+      { 
+        "article_name": "СТАТЬЯ ПРОЕКТА №3",
+        "article_text": "Lorem ipsum dolor sit amet, elitr veniam et quo, melius verear eu vel. Accumsan scriptorem pro cu, quem option accusata cu has, an vix amet affert. Vidisse fastidii appareat pro at.",
+        "article_img": "img/page-company/achievements-1.png"
+      }
+    ],
+    "filter": ["design", "production"]
+  }]
+}
