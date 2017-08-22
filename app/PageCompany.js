@@ -5,6 +5,7 @@ import firebase from 'firebase';
 import Advantages from './Advantages';
 import EmployeesItem from './EmployeesItem';
 import Footer from './Footer';
+import { connect } from 'react-redux';
 
 class PageCompany extends React.Component {
     constructor() {
@@ -27,11 +28,71 @@ class PageCompany extends React.Component {
         });
     }
 
-	render() { 
-    const employees_List = this.state.employeesList;
-		return (
-			<div> 
-          <section id="history">
+    _getCoords(elem) { 
+      var box = elem.getBoundingClientRect();
+
+      return {
+        top: box.top + pageYOffset,
+        left: box.left + pageXOffset
+      };
+    }
+
+    _scrollingToAnchor1(element) { 
+      let elem = element.refs.history; 
+      let positionTop = this._getCoords(elem).top;
+      window.scrollTo(0, positionTop);
+    }
+
+    _scrollingToAnchor2(element) { 
+      let elem = element.refs.block_advantages_company; 
+      let positionTop = this._getCoords(elem).top;
+      window.scrollTo(0, positionTop);
+    }
+
+    _scrollingToAnchor3(element) { 
+      let elem = element.refs.achievements; 
+      let positionTop = this._getCoords(elem).top;
+      window.scrollTo(0, positionTop);
+    }
+
+    _scrollingToAnchor4(element) { 
+      let elem = element.refs.process; 
+      let positionTop = this._getCoords(elem).top;
+      window.scrollTo(0, positionTop);
+    }
+
+    _scrollingToAnchor5(element) { 
+      let elem = element.refs.employees; 
+      let positionTop = this._getCoords(elem).top;
+      window.scrollTo(0, positionTop);
+    }
+
+  	render() { 
+      const employees_List = this.state.employeesList;
+
+      if (this.props.anchor === "history") { 
+        this._scrollingToAnchor1(this);
+      }
+
+      if (this.props.anchor === "block_advantages_company") { 
+        this._scrollingToAnchor2(this);
+      }
+
+      if (this.props.anchor === "achievements") { 
+        this._scrollingToAnchor3(this);
+      }
+
+      if (this.props.anchor === "process") { 
+        this._scrollingToAnchor4(this);
+      }
+
+      if (this.props.anchor === "employees") { 
+        this._scrollingToAnchor5(this);
+      }
+
+  		return (
+  			<div> 
+          <section id="history" ref="history">
               <div className="wrapper-container">
                 <img src="img/page-company/img1-history.png" className="img-history" alt="" />
                 <img src="img/page-company/img2-history.png" className="img-history" alt="" />
@@ -42,10 +103,10 @@ class PageCompany extends React.Component {
                   Eu duo ubique adolescens moderatius, iusto laoreet cu vim, ea sed fierent sapientem. Est cu soluta theophrastus, lorem minimum no his, qui quis delenit mandamus in. Eu vel aeterno antiopam. Eripuit alienum ad cum. Iusto periculis mea te, pri legimus scribentur et, admodum forensibus assueverit at duo.</p>
               </div>
           </section>
-          <div id="block-advantages-company-2">
+          <div id="block-advantages-company-2" ref="block_advantages_company">
             <Advantages advantages_List = {this.state.advantagesList} />
           </div>
-          <section id="achievements">
+          <section id="achievements" ref="achievements">
               <div className="wrapper-container">
                 <h2>Достижения</h2>
               </div>
@@ -74,7 +135,7 @@ class PageCompany extends React.Component {
                 </div>
               </div>
           </section>
-          <section className="process" id="process">
+          <section className="process" id="process" ref="process">
               <div className="process-img"></div>
               <div className="process-amount">
                 <div className="wrapper-container">
@@ -139,7 +200,7 @@ class PageCompany extends React.Component {
                 </div>
               </div>
           </section>
-          <section id="employees">
+          <section id="employees" ref="employees">
             <div className="wrapper-container">
               <h2>Команда</h2>
             </div>
@@ -157,4 +218,8 @@ class PageCompany extends React.Component {
 }
 ReactMixin(PageCompany.prototype, ReactFire);
 
-export default PageCompany;
+export default connect(
+    state => ({
+      anchor: state.anchor.active_anchor
+    })
+)(PageCompany);

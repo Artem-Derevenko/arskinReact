@@ -4,8 +4,34 @@ import ReactFire from 'reactfire';
 import ReactMixin from 'react-mixin';
 import Slider from 'react-slick';
 import ClientsSliderItem from './ClientsSliderItem';
+import { connect } from 'react-redux';
 
 class ClientsSlider extends React.Component {
+	constructor() {
+        super();
+        this.state = {
+            clientsList: [],
+        }
+    }
+
+    componentDidMount() {
+        this.bindAsArray(firebase.database().ref().child("clients"), "clientsList");
+    }
+
+	_getCoords(elem) { 
+	  var box = elem.getBoundingClientRect();
+
+	  return {
+	    top: box.top + pageYOffset,
+	    left: box.left + pageXOffset
+	  };
+	}
+
+	_scrollingToAnchor(element) {
+		let elem = element.refs.clients;
+		let positionTop = this._getCoords(elem).top;
+		window.scrollTo(0, positionTop);
+	}
 
 	render() {
 
@@ -24,11 +50,15 @@ class ClientsSlider extends React.Component {
           slidesToScroll: 1
         };
 
-        const clientsList = this.props.clients_List; 
+        const clientsList = this.state.clientsList; 
+
+        if (this.props.anchor === "clients") { 
+			this._scrollingToAnchor(this);
+		}
 
         if (clientsList.length > 0) {
 			return (
-				<section id="clients">
+				<section id="clients" ref="clients">
 			        <div className="wrapper-container">
 			          <h2>к нам обращаются</h2>
 			          <div className="wrapper-clients-slider">
@@ -48,7 +78,7 @@ class ClientsSlider extends React.Component {
 
 		else {
 			return (
-				<section id="clients">
+				<section ref="clients" id="clients">
 			        <div className="wrapper-container">
 			          <h2>к нам обращаются</h2>
 			          
@@ -60,4 +90,9 @@ class ClientsSlider extends React.Component {
 }
 
 ReactMixin(ClientsSlider.prototype, ReactFire);
-export default ClientsSlider;
+
+export default connect(
+    state => ({
+    	anchor: state.anchor.active_anchor
+    })
+)(ClientsSlider);

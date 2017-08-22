@@ -22,6 +22,7 @@ class PageNews extends React.Component {
     	this.setState({
             page: event.target.innerHTML
         });
+        window.scrollTo(0,0);
     }
 
 	render() {

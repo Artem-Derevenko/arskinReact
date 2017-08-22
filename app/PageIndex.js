@@ -15,17 +15,13 @@ class PageIndex extends React.Component {
 	constructor() {
         super();
         this.state = {
-            advantagesList: [],
             newsList: [],
-            clientsList: [],
             honorsList: []
         }
     }
 
     componentDidMount() {
-        this.bindAsArray(firebase.database().ref().child("advantages"), "advantagesList");
         this.bindAsArray(firebase.database().ref().child("news"), "newsList");
-        this.bindAsArray(firebase.database().ref().child("clients"), "clientsList");
         this.bindAsArray(firebase.database().ref().child("honors"), "honorsList");
     }
 
@@ -67,14 +63,14 @@ class PageIndex extends React.Component {
 		          </div>
 		        </div>
 		      </section>
-		      <Advantages advantages_List = {this.state.advantagesList} />
+		      <Advantages />
 		      <ArchitecturalDesign />
 		      <section id="section4">
 		    	  <ResolveIssues />
 		    	  <BlockNews news_List = {this.state.newsList.slice(0, 2)} />
 		      </section>
 		      <Subscription />
-		      <ClientsSlider clients_List = {this.state.clientsList} />
+		      <ClientsSlider />
 		      <Honors honors_List = {this.state.honorsList} />
 		      <Footer />
             </div>
